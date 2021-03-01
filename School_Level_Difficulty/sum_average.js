@@ -1,4 +1,4 @@
-// For a given array of price of items,you have to calculate the sum and average of all prices upto 2 decimal places.
+// For a given array of price of items, you have to calculate the sum and average of all prices upto 2 decimal places.
 
 // For a single testcase and without user input
 const reducer = (accumulator, currentValue) => accumulator + currentValue;
