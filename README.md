@@ -1,1 +1,1 @@
-# Coding Practice from GeeksforGeeks
+# Coding Practice
